@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorldPlenty",
+  "description": "My first plugin",
+  "namespace": "HelloWorldPlenty",
+  "author": "Oleksandr",
+  "type": "template",
+  "serviceProvider": "HelloWorldPlenty\\Providers\\HelloWorldPlentyServiceProvider"
+}
