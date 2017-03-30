@@ -19,6 +19,6 @@ class HelloWorldPlentyServiceProvider
 
     public function register()
     {
-        $this->getApplication()->register(HelloWorldRouteServiceProvider::class);
+        $this->getApplication()->register(HelloWorldPlentyRouteServiceProvider::class);
     }
 }
